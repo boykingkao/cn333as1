@@ -25,7 +25,7 @@
         android:layout_height="wrap_content"
         android:layout_marginStart="304dp"
         android:layout_marginTop="16dp"
-        android:text="Guess"
+        android:text="@string/guess"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/textView" />
 
@@ -35,7 +35,7 @@
         android:layout_height="wrap_content"
         android:layout_marginTop="16dp"
         android:layout_marginEnd="300dp"
-        android:text="Reset"
+        android:text="@string/reset"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/textView" />
 
@@ -44,7 +44,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_marginEnd="8dp"
-        android:text="Give me Answer"
+        android:text="@string/give_me_answer"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintTop_toTopOf="parent" />
 
@@ -78,7 +78,7 @@
         android:layout_height="122dp"
         android:layout_marginTop="80dp"
         android:layout_marginEnd="108dp"
-        android:text="Sumet kongkaew 6210612559"
+        android:text="@string/sumet_kongkaew_6210612559"
         android:textAlignment="center"
         android:textColor="#000000"
         android:textSize="24sp"

@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">NumberGuessingGame</string>
+    <string name="guess">Guess</string>
+    <string name="give_me_answer">Give me Answer</string>
+    <string name="sumet_kongkaew_6210612559">Sumet kongkaew 6210612559</string>
+    <string name="reset">Reset</string>
 </resources>
